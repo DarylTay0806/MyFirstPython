@@ -25,3 +25,6 @@ if numbers_in_order == sorted(numbers):
     print("The lists are equal")
 else:
     print("The lists are not equal")
+
+
+
