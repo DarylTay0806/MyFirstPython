@@ -1,6 +1,6 @@
 # ipAddress = input("Please enter an IP address: ")
 # print(ipAddress.count("."))
-parrot_list = ["non pinin'", "no more", "a stiff", "bereft of live"]
+parrot_list = ["tEST 1'", "TEST 2", "a stiff", "bereft of live"]
 
 parrot_list.append("A Norwegian Blue")
 
